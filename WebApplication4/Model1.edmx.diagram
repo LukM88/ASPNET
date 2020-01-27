@@ -4,7 +4,7 @@
   <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
     <!-- Diagram content (shape and connector positions) -->
     <edmx:Diagrams>
-      <Diagram DiagramId="2947bd34c6b543db846e67b73359fd92" Name="Diagram1" ZoomLevel="64">
+      <Diagram DiagramId="687d36b17c164fe9b9dce7a81071a74b" Name="Diagram1">
         <EntityTypeShape EntityType="kadryModel.C__MigrationHistory" Width="1.5" PointX="0.75" PointY="0.75" IsExpanded="true" />
         <EntityTypeShape EntityType="kadryModel.AppUser" Width="1.5" PointX="2.75" PointY="0.75" IsExpanded="true" />
         <EntityTypeShape EntityType="kadryModel.AspNetRole" Width="1.5" PointX="0.75" PointY="9.5" IsExpanded="true" />
@@ -19,7 +19,10 @@
         <EntityTypeShape EntityType="kadryModel.stan_dzial" Width="1.5" PointX="7.5" PointY="3.75" IsExpanded="true" />
         <EntityTypeShape EntityType="kadryModel.Stanowiska" Width="1.5" PointX="5.25" PointY="3.875" IsExpanded="true" />
         <EntityTypeShape EntityType="kadryModel.sysdiagram" Width="1.5" PointX="5.75" PointY="0.75" IsExpanded="true" />
-        <EntityTypeShape EntityType="kadryModel.TABELE" Width="1.5" PointX="7.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="kadryModel.kierownicy1" Width="1.5" PointX="7.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="kadryModel.PracDzial" Width="1.5" PointX="7.75" PointY="6.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="kadryModel.TABELE" Width="1.5" PointX="9.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="kadryModel.WolneEt" Width="1.5" PointX="9.75" PointY="7.75" IsExpanded="true" />
         <AssociationConnector Association="kadryModel.FK_dbo_AspNetUserClaims_dbo_AspNetUsers_UserId" ManuallyRouted="false" />
         <AssociationConnector Association="kadryModel.FK_dbo_AspNetUserLogins_dbo_AspNetUsers_UserId" ManuallyRouted="false" />
         <AssociationConnector Association="kadryModel.FK_RELATION_RELATIONS_DZIALY" ManuallyRouted="false" />
@@ -32,9 +35,6 @@
         <AssociationConnector Association="kadryModel.AspNetUserRoles" ManuallyRouted="false" />
         <AssociationConnector Association="kadryModel.Prac_dzial" ManuallyRouted="false" />
         <AssociationConnector Association="kadryModel.stan_prac" ManuallyRouted="false" />
-        <EntityTypeShape EntityType="kadryModel.kierownicy1" Width="1.5" PointX="7.375" PointY="6.75" />
-        <EntityTypeShape EntityType="kadryModel.PracDzial" Width="1.5" PointX="9.375" PointY="7.75" />
-        <EntityTypeShape EntityType="kadryModel.WolneEt" Width="1.5" PointX="7.375" PointY="10.75" />
       </Diagram>
     </edmx:Diagrams>
   </edmx:Designer>

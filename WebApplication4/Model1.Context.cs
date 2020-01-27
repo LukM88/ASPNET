@@ -42,9 +42,9 @@ namespace WebApplication4
         public DbSet<stan_dzial> stan_dzial { get; set; }
         public DbSet<Stanowiska> Stanowiskas { get; set; }
         public DbSet<sysdiagram> sysdiagrams { get; set; }
-        public DbSet<TABELE> TABELEs { get; set; }
         public DbSet<kierownicy1> kierownicy1 { get; set; }
         public DbSet<PracDzial> PracDzials { get; set; }
+        public DbSet<TABELE> TABELEs { get; set; }
         public DbSet<WolneEt> WolneEts { get; set; }
     
         public virtual int AddPracMore(Nullable<int> idD, Nullable<int> idP, Nullable<int> idS)

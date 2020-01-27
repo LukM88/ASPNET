@@ -1,9 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Data;
-using System.Linq;
-using System.Web;
-using System.Web.UI;
 using System.Web.UI.WebControls;
 
 namespace WebApplication4
@@ -152,40 +147,42 @@ namespace WebApplication4
 
         protected void Button1_Click(object sender, EventArgs e)
         {
-            if (Panel1.Controls[10]!=null)
+            if (Panel1.Controls[11]!=null)
             {
-                Panel1.Controls.RemoveAt(10);
+                Panel1.Controls.RemoveAt(11);
             }
-            Panel1.Controls.AddAt(10,new GridView { DataSourceID= "SqlDataSource1" });
+            Panel1.Controls.AddAt(11,new GridView { DataSourceID= "SqlDataSource1" });
               
             
         }
 
         protected void Button2_Click(object sender, EventArgs e)
         {
-            if (Panel1.Controls[10] != null)
+            if (Panel1.Controls[11] != null)
             {
-                Panel1.Controls.RemoveAt(10);
+                Panel1.Controls.RemoveAt(11);
             }
-            Panel1.Controls.AddAt(10, new GridView { DataSourceID = "SqlDataSource2" });
+            Panel1.Controls.AddAt(11, new GridView { DataSourceID = "SqlDataSource2" });
         }
 
         protected void Button3_Click(object sender, EventArgs e)
         {
-            if (Panel1.Controls[10] != null)
+            if (Panel1.Controls[11] != null)
             {
-                Panel1.Controls.RemoveAt(10);
+                Panel1.Controls.RemoveAt(11);
             }
-            Panel1.Controls.AddAt(10, new GridView { DataSourceID = "SqlDataSource3" });
+            Panel1.Controls.AddAt(11, new GridView { DataSourceID = "SqlDataSource3" });
         }
 
         protected void Button4_Click(object sender, EventArgs e)
         {
-            if (Panel1.Controls[10] != null)
+            if (Panel1.Controls[11] != null)
             {
-                Panel1.Controls.RemoveAt(10);
+                Panel1.Controls.RemoveAt(11);
             }
-            Panel1.Controls.AddAt(10, new GridView { DataSourceID = "SqlDataSource4" });
+            Panel1.Controls.AddAt(11, new GridView { DataSourceID = "SqlDataSource4" });
         }
+
+        
     }
 }
