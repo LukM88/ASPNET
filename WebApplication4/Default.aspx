@@ -4,7 +4,7 @@
 
     <div class="jumbotron">
         <p class="lead">
-            <asp:Login ID="Login1" runat="server"  OnAuthenticate="Login1_Authenticate" LoginButtonText="Zaloguj" PasswordLabelText="Hasło:" RememberMeText="Zapamiętaj dane." TitleText="Zaloguj się" UserNameLabelText="Login:"></asp:Login>
+            login do gościa guest hasło 111<asp:Login ID="Login1" runat="server"  OnAuthenticate="Login1_Authenticate" LoginButtonText="Zaloguj" PasswordLabelText="Hasło:" RememberMeText="Zapamiętaj dane." TitleText="Zaloguj się" UserNameLabelText="Login:"></asp:Login>
             
         <div class="col-md-4">
         </div>
