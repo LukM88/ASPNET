@@ -1617,6 +1617,10 @@ pre code {
   min-height: 1px;
   padding-right: 15px;
   padding-left: 15px;
+    top: 0px;
+    left: 0px;
+    height: 225px;
+    width: 1090px;
 }
 .col-xs-1, .col-xs-2, .col-xs-3, .col-xs-4, .col-xs-5, .col-xs-6, .col-xs-7, .col-xs-8, .col-xs-9, .col-xs-10, .col-xs-11, .col-xs-12 {
   float: left;
@@ -2250,6 +2254,7 @@ pre code {
 }
 table {
   background-color: transparent;
+    margin-top: 21px;
 }
 caption {
   padding-top: 8px;
@@ -4979,6 +4984,8 @@ a.badge:focus {
   padding-right: 15px;
   padding-left: 15px;
   border-radius: 6px;
+    height: 539px;
+    width: 1164px;
 }
 .jumbotron .container {
   max-width: 100%;
