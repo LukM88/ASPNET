@@ -6,7 +6,7 @@
             
         <div class="col-md-4">
 
-        <asp:DetailsView ID="DetailsView6" runat="server" AutoGenerateRows="False" Height="50px" Width="266px" DataKeyNames="idPo" DataSourceID="SqlDataSource1"  >
+        <asp:DetailsView ID="DetailsView6" runat="server" AutoGenerateRows="False" Height="50px" Width="266px" DataKeyNames="idPo" DataSourceID="SqlDataSource1" OnItemInserted="DetailsView6_ItemInserted"   >
             <Fields>
                 <asp:CommandField NewText="Dodaj się" ShowInsertButton="True" />
                 <asp:BoundField DataField="idPo" HeaderText="idPo" ReadOnly="True" SortExpression="idPo" InsertVisible="False" />

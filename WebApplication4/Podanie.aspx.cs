@@ -13,5 +13,10 @@ namespace WebApplication4
         {
 
         }
+
+        protected void DetailsView6_ItemInserted(object sender, DetailsViewInsertedEventArgs e)
+        {
+            Response.Redirect("guest.aspx");
+        }
     }
 }
