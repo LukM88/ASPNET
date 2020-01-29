@@ -4,13 +4,9 @@
   <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
     <!-- Diagram content (shape and connector positions) -->
     <edmx:Diagrams>
-      <Diagram DiagramId="687d36b17c164fe9b9dce7a81071a74b" Name="Diagram1">
+      <Diagram DiagramId="687d36b17c164fe9b9dce7a81071a74b" Name="Diagram1" ZoomLevel="64">
         <EntityTypeShape EntityType="kadryModel.C__MigrationHistory" Width="1.5" PointX="0.75" PointY="0.75" IsExpanded="true" />
         <EntityTypeShape EntityType="kadryModel.AppUser" Width="1.5" PointX="2.75" PointY="0.75" IsExpanded="true" />
-        <EntityTypeShape EntityType="kadryModel.AspNetRole" Width="1.5" PointX="0.75" PointY="9.5" IsExpanded="true" />
-        <EntityTypeShape EntityType="kadryModel.AspNetUserClaim" Width="1.5" PointX="5.25" PointY="8" IsExpanded="true" />
-        <EntityTypeShape EntityType="kadryModel.AspNetUserLogin" Width="1.5" PointX="5.25" PointY="10.75" IsExpanded="true" />
-        <EntityTypeShape EntityType="kadryModel.AspNetUser" Width="1.5" PointX="3" PointY="8.375" IsExpanded="true" />
         <EntityTypeShape EntityType="kadryModel.Dzialy" Width="1.5" PointX="0.75" PointY="3.75" IsExpanded="true" />
         <EntityTypeShape EntityType="kadryModel.Oferty" Width="1.5" PointX="9.75" PointY="3.75" IsExpanded="true" />
         <EntityTypeShape EntityType="kadryModel.Podania" Width="1.5" PointX="12" PointY="3" IsExpanded="true" />
@@ -23,8 +19,6 @@
         <EntityTypeShape EntityType="kadryModel.PracDzial" Width="1.5" PointX="7.75" PointY="6.75" IsExpanded="true" />
         <EntityTypeShape EntityType="kadryModel.TABELE" Width="1.5" PointX="9.75" PointY="0.75" IsExpanded="true" />
         <EntityTypeShape EntityType="kadryModel.WolneEt" Width="1.5" PointX="9.75" PointY="7.75" IsExpanded="true" />
-        <AssociationConnector Association="kadryModel.FK_dbo_AspNetUserClaims_dbo_AspNetUsers_UserId" ManuallyRouted="false" />
-        <AssociationConnector Association="kadryModel.FK_dbo_AspNetUserLogins_dbo_AspNetUsers_UserId" ManuallyRouted="false" />
         <AssociationConnector Association="kadryModel.FK_RELATION_RELATIONS_DZIALY" ManuallyRouted="false" />
         <AssociationConnector Association="kadryModel.FK_OFERTY_RELATIONS_RELATION" ManuallyRouted="false" />
         <AssociationConnector Association="kadryModel.FK_PODANIA_RELATIONS_OFERTY" ManuallyRouted="false" />
@@ -32,7 +26,6 @@
         <AssociationConnector Association="kadryModel.FK_ROZMOWY_RELATIONS_PODANIA" ManuallyRouted="false" />
         <AssociationConnector Association="kadryModel.FK_ROZMOWY_RELATIONS_PRACOWNI" ManuallyRouted="false" />
         <AssociationConnector Association="kadryModel.FK_RELATION_RELATIONS_STANOWIS2" ManuallyRouted="false" />
-        <AssociationConnector Association="kadryModel.AspNetUserRoles" ManuallyRouted="false" />
         <AssociationConnector Association="kadryModel.Prac_dzial" ManuallyRouted="false" />
         <AssociationConnector Association="kadryModel.stan_prac" ManuallyRouted="false" />
       </Diagram>

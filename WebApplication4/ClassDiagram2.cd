@@ -1,0 +1,235 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="WebApplication4.About">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>About.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WebApplication4.WebForm1">
+    <Position X="12.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AKAAgEAAAEAYAACAAAAAUDhABCAQcQghEgGIQAIAAAA=</HashCode>
+      <FileName>AdMiN.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WebApplication4.BundleConfig">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAA=</HashCode>
+      <FileName>App_Start\BundleConfig.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WebApplication4.RouteConfig" Collapsed="true">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAA=</HashCode>
+      <FileName>App_Start\RouteConfig.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WebApplication4.Contact">
+    <Position X="9.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>Contact.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WebApplication4._Default">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAIAAAA=</HashCode>
+      <FileName>Default.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WebApplication4.Global">
+    <Position X="2.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAA=</HashCode>
+      <FileName>Global.asax.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WebApplication4.guest" Collapsed="true">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AKAAAAAAAAAYAAAAAAAAADBAAAAQMQAhAAAAQAIAAAA=</HashCode>
+      <FileName>guest.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WebApplication4.kadryEntities">
+    <Position X="11" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAICMAEIAQAhAAACABQSYECkEgBEESQcAJAEkAwgwAI=</HashCode>
+      <FileName>Model1.Context.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WebApplication4.AppUser">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAgAAEAA=</HashCode>
+      <FileName>AppUser.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WebApplication4.C__MigrationHistory">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAACAAAAEAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAA=</HashCode>
+      <FileName>C__MigrationHistory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WebApplication4.Dzialy">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAACAAACAAAAAACAIAAAAAAAAIgA=</HashCode>
+      <FileName>Dzialy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WebApplication4.kierownicy_Result">
+    <Position X="0.5" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAgAAAIAA=</HashCode>
+      <FileName>kierownicy_Result.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WebApplication4.kierownicy1">
+    <Position X="9.25" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAgAAAIgA=</HashCode>
+      <FileName>kierownicy1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WebApplication4.Oferty">
+    <Position X="0.5" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAACAAAAAAQAAAAAAAIAAAgA=</HashCode>
+      <FileName>Oferty.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WebApplication4.Podania">
+    <Position X="4" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAABAAAAAAAARAAAAAAAAAgAAAQCAAIAAAIgAQAAgA=</HashCode>
+      <FileName>Podania.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WebApplication4.PracDzial">
+    <Position X="5.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAACAAACAAAAAAAAAAAAAAAAAgAAAIgA=</HashCode>
+      <FileName>PracDzial.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WebApplication4.Pracownicy">
+    <Position X="7.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAACACAAAAAAgAABAACBIAAAAgAAAAgA=</HashCode>
+      <FileName>Pracownicy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WebApplication4.pracownicyDzialu_Result">
+    <Position X="9.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAgAAAAgA=</HashCode>
+      <FileName>pracownicyDzialu_Result.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WebApplication4.Rozmowy">
+    <Position X="2.25" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAQAAAAAAAAAGAAAAAQAAAAAAAAAAggA=</HashCode>
+      <FileName>Rozmowy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WebApplication4.rozmowyPerDzien_Result">
+    <Position X="7.5" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAggA=</HashCode>
+      <FileName>rozmowyPerDzien_Result.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WebApplication4.sp_helpdiagramdefinition_Result">
+    <Position X="2.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>sp_helpdiagramdefinition_Result.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WebApplication4.sp_helpdiagrams_Result">
+    <Position X="2.25" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAEAAiAAAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>sp_helpdiagrams_Result.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WebApplication4.stan_dzial">
+    <Position X="5.75" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAACAAIAAAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>stan_dzial.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WebApplication4.Stanowiska">
+    <Position X="7.5" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAACAAAAAACAAAAAAAAAAIgA=</HashCode>
+      <FileName>Stanowiska.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WebApplication4.sysdiagram">
+    <Position X="4" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAIAAAAAAAAAAAAAAAQAAAFAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>sysdiagram.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WebApplication4.TABELE">
+    <Position X="9.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>TABELE.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WebApplication4.WolneEt">
+    <Position X="2.25" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAIgA=</HashCode>
+      <FileName>WolneEt.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WebApplication4.WolneEtaty_Result">
+    <Position X="5.75" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAIAA=</HashCode>
+      <FileName>WolneEtaty_Result.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WebApplication4.Podanie">
+    <Position X="4" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAEAAAAAAAAAAAAAAAAAQAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>Podanie.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WebApplication4.SiteMaster">
+    <Position X="9.25" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAABAACAAAAAAAAAAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>Site.Master.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WebApplication4.Site_Mobile">
+    <Position X="5.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAABAACAAAAAIAAAIAAAAAAAAAIAAAA=</HashCode>
+      <FileName>Site.Mobile.Master.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WebApplication4.ViewSwitcher">
+    <Position X="9.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEIAAIA=</HashCode>
+      <FileName>ViewSwitcher.ascx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

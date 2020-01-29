@@ -30,10 +30,6 @@ namespace WebApplication4
     
         public DbSet<C__MigrationHistory> C__MigrationHistory { get; set; }
         public DbSet<AppUser> AppUsers { get; set; }
-        public DbSet<AspNetRole> AspNetRoles { get; set; }
-        public DbSet<AspNetUserClaim> AspNetUserClaims { get; set; }
-        public DbSet<AspNetUserLogin> AspNetUserLogins { get; set; }
-        public DbSet<AspNetUser> AspNetUsers { get; set; }
         public DbSet<Dzialy> Dzialies { get; set; }
         public DbSet<Oferty> Oferties { get; set; }
         public DbSet<Podania> Podanias { get; set; }
